@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/brunopaiva15/bp_keylogger/badge)](https://www.codefactor.io/repository/github/brunopaiva15/bp_keylogger)
+
 # BP_KeyLogger
 
 BP_KeyLogger is an open-source keylogger.
